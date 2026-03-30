@@ -25,7 +25,7 @@ An intelligent, local AI Agent that seamlessly combines real-time internet searc
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/agentic-rag-assistant.git](https://github.com/yourusername/agentic-rag-assistant.git)
+git clone (https://github.com/Hanibani7532/Agentic-RAG-Assistant.git)
 cd agentic-rag-assistant
 Step 2: Create a Virtual Environment
 Bash
