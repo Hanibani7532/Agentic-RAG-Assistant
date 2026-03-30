@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#008080" # Teal (For Buttons, Spinners)
+backgroundColor = "#1A1B22" # Dark Gray (For Background)
+secondaryBackgroundColor = "#262730" # Slightly Lighter Gray (For Sidebar, Widgets)
+textColor = "#FAFAFA" # Off-White (For Text)
+font = "sans serif"

@@ -1,0 +1,13 @@
+# Environments
+venv/
+env/
+
+# API Keys and Secrets
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Temp files created by our app
+temp_*
